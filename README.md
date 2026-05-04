@@ -1,7 +1,7 @@
 # CodeAlpha_Tasks
 # 🌍 Language Translator
 
-This is a Language Translator web application built using Python and Streamlit.
+This is a Language Translator web application built using Python and Streamlit
 
 ## 🔧 Features
 - Translate text into multiple languages
