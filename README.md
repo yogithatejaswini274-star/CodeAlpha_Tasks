@@ -33,3 +33,27 @@ A simple AI-powered FAQ chatbot built using Python that answers user questions b
 
 ### 🤖 Working
 The chatbot compares the user’s input with stored FAQ questions and finds the closest match using NLP techniques, then displays the best possible answer.
+
+
+## 📌 Task 4: Object Detection 📸
+
+A real-time object detection system using YOLOv8.
+
+### 🔧 Features:
+- Detects objects using webcam
+- Uses YOLOv8 model (Ultralytics)
+- Displays bounding boxes and labels
+- Real-time detection with OpenCV
+
+### 🛠️ Technologies Used:
+- Python
+- OpenCV
+- Ultralytics YOLOv8
+
+---
+
+## 🚀 How to Run
+
+### Install dependencies:
+```bash
+pip install streamlit deep-translator scikit-learn opencv-python ultralytics
